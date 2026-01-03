@@ -11,4 +11,8 @@ No complex setup is required. The installation process is designed to be quick a
 ```bash
 https://smh-redcap-excel-converter.streamlit.app
 ```
+
+## gentle note
+
+This does not include revision rates and patient demographics + MRN. This only takes baseline and F/U scores. You can input patient demographics manually... or maybe I'll make that update soon.
     
