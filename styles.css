@@ -1,0 +1,30 @@
+.stApp {
+    background-color: #1c1c1c !important;
+}
+
+.main .block-container {
+    background: rgb(235, 235, 235) !important;
+    border-radius: 8px !important;
+    padding: 30px !important;
+    margin-top: 2rem !important;
+    max-width: 600px !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+}
+
+h1 {
+    color: #ffffff !important;
+    text-align: center !important;
+}
+
+.stButton button {
+    background-color: #007bff !important;
+    color: white !important;
+    border-radius: 6px !important;
+    border: none !important;
+    width: 100% !important;
+    margin-top: 15px !important;
+}
+
+.stDownloadButton button {
+    background-color: #28a745 !important;
+}
